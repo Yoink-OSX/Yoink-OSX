@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/348321/m/yoink-screenshot.png?v=1667998104" alt="Yoink screenshot"/>
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/yoink.jpg?quality=82&strip=all&w=1024" alt="Yoink screenshot"/>
 </p>
 
 ---
@@ -39,12 +39,6 @@ Resource-efficient continuous availability maintains responsive performance wher
 - <a href="#">Item</a> preview displaying file information thumbnails
 - Lightweight <a href="#">operation</a> maintaining system responsiveness
 - <a href="#">Clipboard</a> integration extending beyond drag drop
-
----
-
-<p align="center">
-  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/yoink.jpg?quality=82&strip=all&w=1024" alt="Yoink screenshot"/>
-</p>
 
 ---
 
